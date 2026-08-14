@@ -1,7 +1,4 @@
-# AnaliseExploratoria-Ecommerce
-
-## Gráficos para Ecommerce - Avançado:
-# Gráfico criado durante as aulas de python!
+# Gráficos para Ecommerce - Avançado:
 
 # Bibliotecas utilizadas
 
@@ -15,6 +12,7 @@
 - Criação dos gráficos utilizando Plotly;
 - Organização dos gráficos através de funções `def` e `return`;
 - Criação do layout da aplicação utilizando Dash;
+- Implementação de callback para interação com a aplicação;
 - Inicialização da aplicação utilizando `app.run()`.
 
 # Utilize no terminal cada código!
