@@ -15,7 +15,11 @@
 - Implementação de callback para interação com a aplicação;
 - Inicialização da aplicação utilizando `app.run()`.
 
-# Utilize no terminal cada código!
+# Como executar
+- Execute o arquivo Python no terminal.
+# Após executar
+- Entra no servidor: http://127.0.0.1:8050
+
 # Como instalar:
 
 ```bash
@@ -23,5 +27,7 @@
 - pip install plotly
 - pip install dash
 - pip install -r requirements.txt
+
+
 
 
